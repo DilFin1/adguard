@@ -17,3 +17,6 @@ toots-a.akamaihd.net
 trk-euwest.tidaltv.com
 2a7e9.v.fwmrm.net
 ar.prd.content.itv.com
+tom.itv.com
+cpt.itv.com
+ar.prd.content.itv.com
